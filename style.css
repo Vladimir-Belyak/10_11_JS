@@ -1,0 +1,18 @@
+#surnameOutput{
+    font-family: 'Snell Roundhand', cursive;
+    font-style:italic;
+}
+
+#firstNameOutput{
+    font-family:  'Snell Roundhand', cursive;
+    font-style:italic;
+}
+
+
+.card{
+    background-color: rgb(243, 180, 93);
+}
+
+.card-body{
+    background-color: rgb(224, 193, 151);
+}
